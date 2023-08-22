@@ -1,0 +1,1 @@
+Pandas is an open-source data manipulation and analysis library for Python. It provides data structures, such as DataFrames and Series, to efficiently handle and analyze tabular and time-series data. Pandas simplifies tasks like data cleaning, transformation, and exploration, making it a fundamental tool for data science and analysis workflows.
